@@ -25,9 +25,7 @@ Follow these steps to get a copy of the project up and running on your local mac
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/DzarelDeveloper/Valentine-Days.git
-   cd Valentine-Days
-   ```
+   git clone 
 
 2. **Install dependencies:**
    ```bash
